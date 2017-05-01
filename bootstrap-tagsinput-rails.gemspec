@@ -6,8 +6,8 @@ require 'bootstrap/tagsinput/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "bootstrap-tagsinput-rails"
   spec.version       = Bootstrap::Tagsinput::Rails::VERSION
-  spec.authors       = ["Hyo Seong Choi"]
-  spec.email         = ["rorlab@gmail.com"]
+  spec.authors       = ["Hyo Seong Choi", "Zachary Lome"]
+  spec.email         = ["rorlab@gmail.com", "zslome@gmail.com"]
   spec.description   = %q{To gemify bootstrap-tagsinput for assets pipleline}
   spec.summary       = %q{Packaging the assets with Bunlder}
   spec.homepage      = "http://rorlab.github.io/bootstrap-tagsinput-rails/"
